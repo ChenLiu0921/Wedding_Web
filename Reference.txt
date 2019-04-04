@@ -1,0 +1,34 @@
+INFS3202
+PROJECT- WEDDING STYLISH
+STUDENT:
+Yaxin Cui
+44450672
+
+Chen Liu
+44109073
+
+Liqun Zeng
+44185282
+
+
+Google map api:
+https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl
+
+Paypal api:
+https://developer.paypal.com/docs/integration/direct/express-checkout/integration-jsv4/client-side-REST-integration/
+https://developer.paypal.com/docs/integration/direct/express-checkout/integration-jsv4/add-paypal-button/
+https://developer.paypal.com/docs/integration/direct/express-checkout/integration-jsv4/upgrade-integration/
+
+Download pdf api:
+https://blog.csdn.net/m15732622413/article/details/78456961
+https://www.zhihu.com/question/28914581
+https://www.cnblogs.com/skyInk/p/6401563.html?utm_source=itdadao&utm_medium=referral
+
+Send Email api:
+https://www.cnblogs.com/findumars/p/6323729.html
+
+All the Bootstrap,fronted refer to this page, Document Bootstrap
+https://getbootstrap.com/docs/4.1/getting-started/introduction/
+
+A lots of php code is also refer from here
+https://www.w3schools.com/php/default.asp
